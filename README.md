@@ -33,5 +33,5 @@ The quickstart guide walks you through:
 
 SQL Scripts All SQL scripts are referenced in the quickstart guide:
 
-1.snowflake_backup_setup.sql - Create role, database, warehouse, backup policy 
-2.snowflake_restore.sql - inspect backup set and restore
+1. snowflake_backup_setup.sql - Create role, database, warehouse, backup policy
+2. snowflake_restore.sql - inspect backup set and restore
