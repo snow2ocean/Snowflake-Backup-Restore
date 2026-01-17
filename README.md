@@ -11,25 +11,25 @@ The quickstart guide walks you through:
 - Create database, schema, warehouse
 - Privilege grants
 - Create backup policies
--   Hourly backups, expire after 90 days
--   Daily backups with retention lock (Business Critical Edition)
--   Daily backups without retention lock
--   Twice-weekly backups using cron (Tue & Fri 23:00 UTC)
+  - Hourly backups, expire after 90 days
+  - Daily backups with retention lock (Business Critical Edition)
+  - Daily backups without retention lock
+  - Twice-weekly backups using cron (Tue & Fri 23:00 UTC)
 - Create backup sets and apply policies
--   Table-level backup set
--   Schema-level backup set
--   Database-level backup set
+  - Table-level backup set
+  - Schema-level backup set
+  - Database-level backup set
 - Manage backup sets (apply/suspend/resume)
--   Apply/replace policy (use FORCE to replace existing policy)
--   Suspend & resume backups on a set
--   drop a backup set
+  - Apply/replace policy (use FORCE to replace existing policy)
+  - Suspend & resume backups on a set
+  - drop a backup set
 - Inspect backup sets
 - Restore from backups
--   Find backup IDs
--   Restore
--     Restore table
--     Restore schema
--     Restore database
+  - Find backup IDs
+  - Restore
+      - Restore table
+      - Restore schema
+      - Restore database
 
 SQL Scripts All SQL scripts are referenced in the quickstart guide:
 
